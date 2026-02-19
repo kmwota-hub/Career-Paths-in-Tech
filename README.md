@@ -1,7 +1,7 @@
 # Career-Paths-in-Tech
 
 
-A collaborative guide by [list all team member names].
+A collaborative guide by: Frank, .
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,7 @@ This guide covers Career-Paths-in-Tech.
 Each section is written by a different team member.
 
 ## Software Development and Engineering
-<!-- [Team Member 1 Name] will write this section -->
+<!-- frankgicharu45-cpu will write this section -->
 
 ## Cybersecurity
 <!-- [Team Member 2 Name] will write this section -->
