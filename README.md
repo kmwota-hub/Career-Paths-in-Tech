@@ -17,7 +17,7 @@ Each section is written by a different team member.
 <!-- frankgicharu45-cpu will write this section -->
 
 ## Cybersecurity
-<!-- [Team Member 2 Name] will write this section -->
+<!-- Kmwota-hub will write this section -->
 
 ## Data Analysis
 <!-- [Team Member 3 Name] will write this section -->
