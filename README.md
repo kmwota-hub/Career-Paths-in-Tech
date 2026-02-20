@@ -17,7 +17,15 @@ Each section is written by a different team member.
 <!-- frankgicharu45-cpu will write this section -->
 
 ## Cybersecurity
-<!-- Kmwota-hub will write this section -->
+""Cybersecurity"" is the practice of protecting systems, networks, and data from digital attacks, combining technology, processes, and human awareness to prevent unauthorized access and data breaches.
+
+""Network Security:"" Protects computer networks from intrusions, malware, and unauthorized access
+
+""Information Security:"" Maintains the integrity and privacy of data in storage and transit.
+
+""Application Security:"" Ensures software and applications are free from vulnerabilities that could expose sensitive data.
+
+""Operational Security:"" Covers processes and decisions for handling and protecting data assets, including user permissions and data storage protocols. 
 
 ## Data Analysis
 <!-- [Team Member 3 Name] will write this section -->
