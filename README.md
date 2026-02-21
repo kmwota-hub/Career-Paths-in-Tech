@@ -99,7 +99,7 @@ This ensures stability, accountability, and smooth teamwork.
 - For organizations, attacks can result in operational disruption, data breaches, and loss of trust. Globally, cybercrime is projected to cost the economy trillions of dollars annually, highlighting the need for robust security measures.
 
 ## Data Analysis
-<!-- [Team Member 3 Name] will write this section -->
+<!-- Mary will write this section -->
 
  ## Product & Project Management
- <!-- [Team Meamber 4} will do this -->
+ <!-- Angel will do this -->
