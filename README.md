@@ -14,12 +14,12 @@ This guide covers Career-Paths-in-Tech.
 Each section is written by a different team member.
 
 ## Software Development and Engineering.
--**Software Development** and Engineering involves the systematic process of **designing**, **building**, **testing**, **deploying**, and **maintaining software systems**. In modern software projects, development is rarely done by one person. Instead, teams of developers collaborate to write code, fix bugs, add features, and improve performance.
+- **Software Development** and Engineering involves the systematic process of **designing**, **building**, **testing**, **deploying**, and **maintaining software systems**. In modern software projects, development is rarely done by one person. Instead, teams of developers collaborate to write code, fix bugs, add features, and improve performance.
 
 Platforms like **GitHub** play a critical role by providing tools that support **collaboration**, **coordination**, and **version control** among team members.
 
 ## Role of GitHub in Software Development Teams.
-**GitHub* is a cloud-based platform that allows developers to **host*, **manage*, and share source code. It enables teams to work on the same project without overwriting each other’s work. Through GitHub, developers can collaborate regardless of location, making it essential in modern software engineering.
+*GitHub* is a cloud-based platform that allows developers to *host*, *manage*, and share source code. It enables teams to work on the same project without overwriting each other’s work. Through GitHub, developers can collaborate regardless of location, making it essential in modern software engineering.
 
 **Key roles GitHub plays include:**
 
