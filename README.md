@@ -1,7 +1,7 @@
 # Career-Paths-in-Tech
 
 
-A collaborative guide by: Frank, .
+A collaborative guide by: Shadrack
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,7 @@ This guide covers Career-Paths-in-Tech.
 Each section is written by a different team member.
 
 ## Software Development and Engineering
-<!-- frankgicharu45-cpu will write this section -->
+<!-- Frank will write this section -->
 
 ## Cybersecurity
 - **Cybersecurity** is the practice of protecting systems, networks, and data from digital attacks, combining technology, processes, and human awareness to prevent unauthorized access and data breaches.
@@ -33,3 +33,6 @@ Each section is written by a different team member.
 
 ## Data Analysis
 <!-- [Team Member 3 Name] will write this section -->
+
+ ## Product & Project Management
+ <!-- [Team Meamber 4} will do this -->
