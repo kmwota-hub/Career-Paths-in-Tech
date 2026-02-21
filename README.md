@@ -22,64 +22,66 @@ Platforms like **GitHub** play a critical role by providing tools that support *
 **GitHub* is a cloud-based platform that allows developers to **host*, **manage*, and share source code. It enables teams to work on the same project without overwriting each other’s work. Through GitHub, developers can collaborate regardless of location, making it essential in modern software engineering.
 
 **Key roles GitHub plays include:**
--Centralized code storage (repositories).
 
--Tracking changes in code over time.
+- Centralized code storage (repositories).
 
--Supporting teamwork and communication.
+- Tracking changes in code over time.
 
--Managing tasks and project progress.
+- Supporting teamwork and communication.
+
+- Managing tasks and project progress.
 
 ## Version Control and Collaboration.
--*Version control* is a core concept in software engineering. GitHub uses Git, a version control system that records every change made to the code.
+
+- *Version control* is a core concept in software engineering. GitHub uses Git, a version control system that records every change made to the code.
 
 **In team collaboration:**
--Developers create branches to work on features independently.
+- Developers create branches to work on features independently.
 
--Changes are merged back into the main project safely.
+- Changes are merged back into the main project safely.
 
--Conflicts can be detected and resolved early.
+- Conflicts can be detected and resolved early.
 
 This ensures stability, accountability, and smooth teamwork.
 
 ## Team Collaboration Features in GitHub.
 *a) Repositories*
--A **repository** contains all the project files, code, documentation, and history. It serves as the main workspace for the team.
+- A **repository** contains all the project files, code, documentation, and history. It serves as the main workspace for the team.
 
 *b) Branches*
--**Branches** allow multiple developers to work on different features or fixes simultaneously without affecting the main codebase.
+- **Branches** allow multiple developers to work on different features or fixes simultaneously without affecting the main codebase.
 
 *c) Pull Requests*
--**Pull requests** enable developers to propose changes, review code, discuss improvements, and approve updates before merging them into the main project.
+- **Pull requests** enable developers to propose changes, review code, discuss improvements, and approve updates before merging them into the main project.
 
 *d) Issues*
--**Issues** are used to report bugs, suggest features, or assign tasks. They help teams track work and responsibilities.
+- **Issues** are used to report bugs, suggest features, or assign tasks. They help teams track work and responsibilities.
 
 *e) Code Reviews*
--**Team members** review each other’s code to improve quality, security, and maintainability, which is a key practice in software engineering.
+- **Team members** review each other’s code to improve quality, security, and maintainability, which is a key practice in software engineering.
 
 ## Communication and Project Management.
  **GitHub supports communication through:**
--Comments on pull requests and issues.
+- Comments on pull requests and issues.
 
--Task assignments and labels.
+- Task assignments and labels.
 
--Project boards and milestones.
+- Project boards and milestones.
 
--These tools help teams *plan work, monitor progress, and ensure deadlines are met*, improving productivity and coordination.
+- These tools help teams *plan work, monitor progress, and ensure deadlines are met*, improving productivity and coordination.
 
 ## Benefits of Using GitHub in Software Engineering.
 
  **Using GitHub for team collaboration offers several advantages:**
--Improved code quality through reviews.
+- Improved code quality through reviews.
 
--Transparency and accountability.
+- Transparency and accountability.
 
--Faster development cycles.
+- Faster development cycles.
 
--Better documentation and knowledge sharing.
+- Better documentation and knowledge sharing.
 
--Support for continuous integration and deployment.
+- Support for continuous integration and deployment.
 
 ## Cybersecurity
 - **Cybersecurity** is the practice of protecting systems, networks, and data from digital attacks, combining technology, processes, and human awareness to prevent unauthorized access and data breaches.
