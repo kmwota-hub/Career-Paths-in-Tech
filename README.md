@@ -22,18 +22,24 @@ Platforms like **GitHub** play a critical role by providing tools that support *
 **GitHub* is a cloud-based platform that allows developers to **host*, **manage*, and share source code. It enables teams to work on the same project without overwriting each other’s work. Through GitHub, developers can collaborate regardless of location, making it essential in modern software engineering.
 
 **Key roles GitHub plays include:**
--Centralized code storage (repositories)
--Tracking changes in code over time
--Supporting teamwork and communication
--Managing tasks and project progress
+-Centralized code storage (repositories).
+
+-Tracking changes in code over time.
+
+-Supporting teamwork and communication.
+
+-Managing tasks and project progress.
 
 ## Version Control and Collaboration.
 -*Version control* is a core concept in software engineering. GitHub uses Git, a version control system that records every change made to the code.
 
 **In team collaboration:**
 -Developers create branches to work on features independently.
+
 -Changes are merged back into the main project safely.
+
 -Conflicts can be detected and resolved early.
+
 This ensures stability, accountability, and smooth teamwork.
 
 ## Team Collaboration Features in GitHub.
