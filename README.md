@@ -55,17 +55,24 @@ This ensures stability, accountability, and smooth teamwork.
 ## Communication and Project Management.
  **GitHub supports communication through:**
 -Comments on pull requests and issues.
+
 -Task assignments and labels.
+
 -Project boards and milestones.
+
 -These tools help teams *plan work, monitor progress, and ensure deadlines are met*, improving productivity and coordination.
 
 ## Benefits of Using GitHub in Software Engineering.
 
  **Using GitHub for team collaboration offers several advantages:**
 -Improved code quality through reviews.
+
 -Transparency and accountability.
+
 -Faster development cycles.
+
 -Better documentation and knowledge sharing.
+
 -Support for continuous integration and deployment.
 
 ## Cybersecurity
