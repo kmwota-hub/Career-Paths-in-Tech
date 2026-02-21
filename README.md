@@ -8,6 +8,7 @@ A collaborative guide by: Frank, .
 - [Software Development and Engineering](#Software-Development-and-Engineering)
 - [Cybersecurity](#Cybersecurity)
 - [Data Analysis](#Data-Analysis)
+- [Product & Project Management](#Product & Project Management)
 
 ## Introduction
 This guide covers Career-Paths-in-Tech.
