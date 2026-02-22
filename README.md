@@ -102,4 +102,4 @@ This ensures stability, accountability, and smooth teamwork.
 <!-- Mary will write this section -->
 
  ## Product & Project Management
- <!-- Angel will do this -->
+ <!-- Grace will do this -->
