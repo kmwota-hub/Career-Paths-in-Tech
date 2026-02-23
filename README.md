@@ -1,7 +1,13 @@
 # Career-Paths-in-Tech
 
 
-A collaborative guide by: Shadrack
+A collaborative guide by:
+1. Shadrack
+2. Grace
+3. Frank
+4. Mary
+5. Brigid
+
 
 ## Table of Contents
 - [Introduction](#introduction)
