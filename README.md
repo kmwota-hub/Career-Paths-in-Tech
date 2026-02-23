@@ -25,7 +25,7 @@ Each section is written by a different team member.
 Platforms like **GitHub** play a critical role by providing tools that support **collaboration**, **coordination**, and **version control** among team members.
 
 ## Role of GitHub in Software Development Teams.
-*GitHub* is a cloud-based platform that allows developers to *host*, *manage*, and share source code. It enables teams to work on the same project without overwriting each other’s work. Through GitHub, developers can collaborate regardless of location, making it essential in modern software engineering.
+Github is a cloud-based platform that allows developers to *host*, *manage*, and share source code. It enables teams to work on the same project without overwriting each other’s work. Through GitHub, developers can collaborate regardless of location, making it essential in modern software engineering.
 
 **Key roles GitHub plays include:**
 
