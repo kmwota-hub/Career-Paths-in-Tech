@@ -102,12 +102,59 @@ This ensures stability, accountability, and smooth teamwork.
 <!-- Mary will write this section -->
 
  ## Product & Project Management
-**Product and project management** are important technology career paths but focus on different areas.
-**Product Management** involves *creating and improving products*.**Product managers** define the product vision,understand user needs,and decide what features should be built.Their goal is long-term product success and customer satisfaction.
-**Project Management** involves *planning* and *delivering projects* within *time*,*scope*,and *budget*.**Project managers** organize tasks,manage teams ,and ensure projects are completed successfully .Their goal is efficient project delivery.
- **Key difference**:
- Product managers focus on *what to build and why*.
- Project managers focus on *how and when to built it*.
+ ### Product Management
+**Product Management** involves *creating and improving products*.
+**Product managers** define the product vision,understand user needs,and decide what features should be built.Their goal is long-term product success and customer satisfaction.
+
+#### Key Responsibilities
+- Identifying customer needs and market opportunities
+- Defining product vision and strategy
+- Creating product roadmaps
+- Working with designers, developers, and stakeholders
+- Prioritizing features and improvements
+- Monitoring product performance after launch
+  
+#### Skills Required
+- Strategic thinking
+- Communication and leadership
+- User experience understanding
+- Data analysis
+- Problem-solving
+- Technical knowledge (not always coding, but understanding technology)
+#### Career Path Examples
+- Associate Product Manager (APM)
+- Product Manager
+- Senior Product Manager
+- Product Director
+- Head of Product / Chief Product Officer (CPO)
+
+### Project Management
+**Project Management** involves *planning* and *delivering projects* within *time*,*scope*,and *budget*.
+**Project managers** organize tasks,manage teams ,and ensure projects are completed successfully .Their goal is efficient project delivery.
+
+#### Key Responsibilities
+- Planning project timelines and schedules
+- Assigning tasks to team members
+- Managing risks and resources
+- Tracking progress and deadlines
+- Communicating with stakeholders
+- Ensuring project delivery
+  
+#### Skills Required
+- Organization and time management
+- Leadership and coordination
+- Risk management
+- Communication
+- Budget management
+- Knowledge of methodologies (Agile, Scrum, Waterfall)
+  
+#### Career Path Examples
+- Project Coordinator
+- Project Manager
+- Senior Project Manager
+- Program Manager
+- Portfolio Manager
+
 
  ##  Data Scientis
  <!-- Brigid Will wrigt this section -->
