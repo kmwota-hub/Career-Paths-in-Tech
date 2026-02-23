@@ -102,11 +102,11 @@ This ensures stability, accountability, and smooth teamwork.
 <!-- Mary will write this section -->
 
  ## Product & Project Management
- <!Product management and project management are important technology career paths but focus on different areas.Product Management involves creating and improving products.Product managers define the product vision,understand user needs,and decide what features should be built.Their goal is long-term product success and customer satisfaction.
+ Product management and project management are important technology career paths but focus on different areas.Product Management involves creating and improving products.Product managers define the product vision,understand user needs,and decide what features should be built.Their goal is long-term product success and customer satisfaction.
  Project Management invlves planning and delivering projects within time ,scope,and budget.Project managers organixe tasks,manage teams ,and ensure projects are completed successfully .Their goal is efficient project delivery.
  key difference:
  Product managers focus on what to build and why.
- Project managers focus on how and when to built it.-->
+ Project managers focus on how and when to built it.
 
  ##  Data Scientis
  <!-- Brigid Will wrigt this section -->
