@@ -107,3 +107,6 @@ This ensures stability, accountability, and smooth teamwork.
  key difference:
  Product managers focus on what to build and why.
  Project managers focus on how and when to built it.-->
+
+ ##  Data Scientis
+ <!-- Brigid Will wrigt this section -->
