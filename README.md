@@ -133,4 +133,32 @@ Data analysis helps businesses make smart decisions based on facts instead of gu
  Project managers focus on how and when to built it.-->
 
  ##  Data Scientis
- <!-- Brigid Will wrigt this section -->
+ **Core Responsibilities of a Data Scientist**
+**1. Collecting data**
+Gather data from databases, websites, surveys, APIs, or company systems
+Ensure the data is relevant and sufficient for analysis
+**2. Cleaning and preparing data**
+Remove errors, duplicates, or missing values
+Transform raw data into a usable format
+Organize datasets for analysis
+(This step often takes the most time.)
+**3. Exploring and analyzing data**
+Study datasets to find patterns and trends
+Use statistics to understand relationships
+Identify important variables
+**4. Building machine learning models**
+Create predictive models using tools like Python
+Train models to forecast outcomes (sales, risk, customer behavior, etc.)
+Test models for accuracy
+**5. Visualizing data**
+Create charts, dashboards, and graphs
+Use tools like Tableau or Power BI
+Make results easy for non-technical people to understand
+**6. Communicating findings**
+Explain insights to managers or stakeholders
+Write reports or presentations
+Recommend data-driven decisions
+**7. Deploying and monitoring models**
+Put models into real applications
+Monitor performance over time
+Update models when new data arrives
