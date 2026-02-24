@@ -105,7 +105,25 @@ This ensures stability, accountability, and smooth teamwork.
 - For organizations, attacks can result in operational disruption, data breaches, and loss of trust. Globally, cybercrime is projected to cost the economy trillions of dollars annually, highlighting the need for robust security measures.
 
 ## Data Analysis
-<!-- Mary will write this section -->
+
+A **Data Analyst** collects, processes, and analyzes data to help organizations make informed decisions.
+
+### Responsibilities
+- Collect and organize data
+- Clean raw data
+- Analyze trends and patterns
+- Create visualizations and reports
+- Present findings to stakeholders
+
+### Tools Used
+- Microsoft Excel
+- SQL
+- Python
+- Power BI
+- Tableau
+
+### Why Data Analysis is Important
+Data analysis helps businesses make smart decisions based on facts instead of guesses. It is a high-demand career in finance, healthcare, marketing, and technology.
 
  ## Product & Project Management
  <!Product management and project management are important technology career paths but focus on different areas.Product Management involves creating and improving products.Product managers define the product vision,understand user needs,and decide what features should be built.Their goal is long-term product success and customer satisfaction.
