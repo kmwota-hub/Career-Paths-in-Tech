@@ -210,3 +210,12 @@ Recommend data-driven decisions
 Put models into real applications
 Monitor performance over time
 Update models when new data arrives
+
+**Common tools used by data scientists**
+- Python
+- R
+- SQL
+- Jupyter Notebook
+- Pandas & NumPy
+- TensorFlow / PyTorch
+- Power BI or Tableau
