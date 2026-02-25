@@ -6,7 +6,7 @@ A collaborative guide by:
 2. Grace Macharia
 3. Frank Gicharu
 4. Mary Macharia
-5. Brigid Adhiambo
+5. Cheryl Adhiambo
 
 
 ## Table of Contents
