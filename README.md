@@ -1,4 +1,4 @@
-no# Career-Paths-in-Tech
+# Career-Paths-in-Tech
 
 
 A collaborative guide by:
@@ -179,13 +179,9 @@ Data analysis helps businesses make smart decisions based on facts instead of gu
 - Program Manager
 - Portfolio Manager
 
-
-<<<<<<< Add--Data-scientists--section
  ##  Data Scientists
  A **Data scientist** collects, cleans, and analyzes data to find patterns, build predictive models, and support decision-making using programming, statistics, and machine learning.
-=======
- ##  Data Scientists 
->>>>>>> main
+
  
  **Core Responsibilities of a Data Scientist**
  
