@@ -15,6 +15,7 @@ A collaborative guide by:
 - [Cybersecurity](#Cybersecurity)
 - [Data Analysis](#Data-Analysis)
 - [Product & Project Management](#Product-&-Project-Management)
+- [Data Scientists](Data-Scientists)
 ## Introduction
 This guide covers Career-Paths-in-Tech.
 Each section is written by a different team member.
