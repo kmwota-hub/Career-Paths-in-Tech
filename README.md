@@ -25,7 +25,7 @@ Each section is written by a different team member.
 
 Platforms like **GitHub** play a critical role by providing tools that support **collaboration**, **coordination**, and **version control** among team members.
 
-## Role of GitHub in Software Development Teams.
+### Role of GitHub in Software Development Teams.
 Github is a cloud-based platform that allows developers to *host*, *manage*, and share source code. It enables teams to work on the same project without overwriting each other’s work. Through GitHub, developers can collaborate regardless of location, making it essential in modern software engineering.
 
 **Key roles GitHub plays include:**
@@ -38,7 +38,7 @@ Github is a cloud-based platform that allows developers to *host*, *manage*, and
 
 - Managing tasks and project progress.
 
-## Version Control and Collaboration.
+### Version Control and Collaboration.
 
 - *Version control* is a core concept in software engineering. GitHub uses Git, a version control system that records every change made to the code.
 
@@ -51,7 +51,7 @@ Github is a cloud-based platform that allows developers to *host*, *manage*, and
 
 This ensures stability, accountability, and smooth teamwork.
 
-## Team Collaboration Features in GitHub.
+### Team Collaboration Features in GitHub.
 *a) Repositories*
 - A **repository** contains all the project files, code, documentation, and history. It serves as the main workspace for the team.
 
@@ -67,7 +67,7 @@ This ensures stability, accountability, and smooth teamwork.
 *e) Code Reviews*
 - **Team members** review each other’s code to improve quality, security, and maintainability, which is a key practice in software engineering.
 
-## Communication and Project Management.
+### Communication and Project Management.
  **GitHub supports communication through:**
 - Comments on pull requests and issues.
 
@@ -77,7 +77,7 @@ This ensures stability, accountability, and smooth teamwork.
 
 - These tools help teams *plan work, monitor progress, and ensure deadlines are met*, improving productivity and coordination.
 
-## Benefits of Using GitHub in Software Engineering.
+### Benefits of Using GitHub in Software Engineering.
 
  **Using GitHub for team collaboration offers several advantages:**
 - Improved code quality through reviews.
