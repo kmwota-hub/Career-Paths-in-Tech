@@ -2,11 +2,11 @@
 
 
 A collaborative guide by:
-1. Shadrack
-2. Grace
-3. Frank
-4. Mary
-5. Brigid
+1. Shadrack Mwota 
+2. Grace Macharia
+3. Frank Gicharu
+4. Mary Macharia
+5. Brigid Adhiambo
 
 
 ## Table of Contents
