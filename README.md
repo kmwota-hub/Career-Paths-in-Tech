@@ -2,11 +2,11 @@
 
 
 A collaborative guide by:
-1. Shadrack Mwota 
-2. Grace Macharia
-3. Frank Gicharu
-4. Mary Macharia
-5. Cheryl Adhiambo
+1. Shadrack Mwota (Kmwota-hub)
+2. Grace Macharia (Gracee001-M)
+3. Frank Gicharu (frankgisharu45-cpu)
+4. Mary Macharia (marymacharia521-netizen)
+5. Cheryl Adhiambo (Brigid-maker)
 
 
 ## Table of Contents
