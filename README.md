@@ -180,10 +180,10 @@ Data analysis helps businesses make smart decisions based on facts instead of gu
 - Portfolio Manager
 
  ##  Data Scientists
+ 
  A **Data scientist** collects, cleans, and analyzes data to find patterns, build predictive models, and support decision-making using programming, statistics, and machine learning.
 
- 
- **Core Responsibilities of a Data Scientist**
+  **Core Responsibilities of a Data Scientist**
  
 **1. Collecting data**
 Gather data from databases, websites, surveys, APIs, or company systems
